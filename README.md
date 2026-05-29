@@ -12,5 +12,5 @@ This project predicts passenger survival using machine learning.
 - Random Forest Classifier
 
 ## Accuracy
-81%
+almost 80%
 
